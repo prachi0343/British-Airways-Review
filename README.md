@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>British Airways Review Dashboard</title>
+  <title> British Airways Review Dashboard </title>
 </head>
 <body>
   <h1>British Airways Review Dashboard ✈️</h1>
@@ -35,11 +35,7 @@
     <a href="https://www.youtube.com/watch?v=KlAKAarfLRQ" target="_blank">Mo Chen</a>.
   </p>
 
-  <h2>Future Enhancements</h2>
-  <ul>
-    <li>Add live data scraping for real-time analysis.</li>
-    <li>Include more granular filtering options, such as by <code>route</code> or <code>traveller_type</code>.</li>
-    <li>Integrate predictive analytics for forecasting customer satisfaction trends.</li>
+
   </ul>
 </body>
 </html>
