@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title> British Airways Review Dashboard </title>
-</head>
+
 <body>
   <h1>British Airways Review Dashboard ✈️</h1>
 
